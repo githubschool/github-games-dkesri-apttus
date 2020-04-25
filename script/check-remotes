@@ -47,5 +47,6 @@ else
   exit 1
 fi
 
-
+# This line is added before exit statement
 exit 0
+# This line indicates end of file
